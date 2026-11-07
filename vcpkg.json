@@ -1,0 +1,14 @@
+{
+  "name": "gameboost-pro",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "qtbase",
+    "qtdeclarative",
+    "qtcharts",
+    "qttools",
+    "sqlite3",
+    "libsodium",
+    "nlohmann-json",
+    "spdlog"
+  ]
+}
